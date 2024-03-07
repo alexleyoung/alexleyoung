@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex 👋</h1>
 <p>I am a full-stack software developer currently studying CS & Applied Math @ ISU.</p>
-<p>Currently, I am working on several React, Typescript, and Tailwind projects to solidify my front-end skillset</p>
+<p>Currently, I am working on several Next.js projects to solidify my full-stack skillset</p>
 <br>
 
 <hr/>
