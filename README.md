@@ -2,6 +2,8 @@
 <p>I am a full-stack software developer currently studying CS & Applied Math @ ISU.</p>
 <p>Currently, I am working on my fullstack skillset with technologies/languages like React, Typescript, Next.js, Nest.js, PostgreSQL</p>
 <br>
+<p>I'm also an eccentric marching band (DCI) enjoyer, weightlifter, and rock climber.</p>
+<br>
 
 <hr/>
 <br>
