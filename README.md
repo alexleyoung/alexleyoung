@@ -4,7 +4,7 @@
 
 <p>I am also a Certified AWS Cloud Practitioner.</p>
 <br>
-<p>I'm also an eccentric DCI (marching band 🎺) enjoyer, weightlifter 🏋️, and rock climber 🧗.</p>
+<p>I'm also an eccentric DCI (marching band 🎺) enjoyer, weightlifter 🏋️, and rock climber 🧗!</p>
 <br>
 
 <hr/>
