@@ -2,7 +2,6 @@
 <p>I am a full-stack software developer and honors student studying CS & Applied Math @ ISU.</p>
 <p>Currently, I am working on my fullstack skillset with technologies/languages like React, Typescript, Next.js, PostgreSQL, and MongoDB</p>
 
-<p>I am also a Certified AWS Cloud Practitioner.</p>
 <br>
 <p>I'm also an eccentric DCI (marching band 🎺) enjoyer, weightlifter 🏋️, and rock climber 🧗!</p>
 <br>
