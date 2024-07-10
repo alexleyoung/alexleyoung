@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex 👋</h1>
 <p>I am a full-stack software developer and honors student studying CS & Applied Math @ ISU.</p>
-<p>Currently, I am working on my fullstack skillset with technologies/languages like React, Typescript, Next.js, PostgreSQL, and MongoDB. I am also a certified AWS Cloud Practitioner.</p>
+<p>I've worked as a SWE Research assistant creating an XR application integrating USD files for collaborative engineering. I've also served as a SWE Fellow @ Headstarter.</p>
 
 <br>
 <p>I'm also an eccentric DCI (marching band 🎺) enjoyer, weightlifter 🏋️, and rock climber 🧗!</p>
