@@ -3,7 +3,7 @@
 <p>I've worked as a SWE Research assistant creating an XR application integrating USD files for collaborative engineering. I've also served as a SWE Fellow @ Headstarter.</p>
 
 <br>
-<p>I'm also an eccentric DCI (marching band 🎺) enjoyer, weightlifter 🏋️, and rock climber 🧗!</p>
+<p>Beyond CS, also an eccentric DCI (marching band 🎺) enjoyer, weightlifter 🏋️, and rock climber 🧗!</p>
 <br>
 
 <hr/>
