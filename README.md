@@ -2,13 +2,9 @@
 <p>I am a full-stack software developer and honors student studying CS & Applied Math @ ISU.</p>
 <p>I've worked as a SWE Research assistant creating an XR application integrating USD files for collaborative engineering. I've also served as a SWE Fellow @ Headstarter.</p>
 
-<br>
 <p>I'm currently working on Asap; an all-in-one schedule management platform, designed to eliminate time spent on scheduling, and maximize productivity.</p>
-<br>
 
-<br>
 <p>Beyond CS, also an eccentric DCI (marching band 🎺) enjoyer, weightlifter 🏋️, and rock climber 🧗!</p>
-<br>
 
 <hr/>
 <br>
