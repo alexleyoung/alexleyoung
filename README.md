@@ -3,7 +3,9 @@
 
 <p>I'm an incoming SWE intern @ Workiva!</p>
 
-<p>I've worked as a SWE Research assistant creating an XR application integrating USD files for collaborative engineering. I've also served as a SWE Fellow @ Headstarter.</p>
+<p>I'm also a CS Peer Mentor, Multicultural Student Affairs Peer Educator, First-Year Honors Leader, and President of CSE, the biggest CS club @ ISU!</p>
+
+<p>I've worked as a SWE Research assistant @ ISU, SWE Fellow @ Headstarter.</p>
 
 <p>I'm currently working on Asap; an all-in-one schedule management platform, designed to eliminate time spent on scheduling, and maximize productivity.</p>
 
