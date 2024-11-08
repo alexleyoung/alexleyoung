@@ -1,7 +1,5 @@
 <h1>Hi, I'm Alex 👋</h1>
-<p>I am a full-stack software developer and honors student studying CS & Applied Math @ ISU.</p>
-
-<p>I'm an incoming SWE intern @ Workiva!</p>
+<p>I am a incoming Fullstack SWE @ Workiva and honors student studying CS & Applied Math @ ISU.</p>
 
 <p>I'm also a CS Peer Mentor, Multicultural Student Affairs Peer Educator, First-Year Honors Leader, and President of CSE, the biggest CS club @ ISU!</p>
 
