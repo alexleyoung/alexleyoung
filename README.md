@@ -1,7 +1,7 @@
 <h1>im alex! 👋</h1>
 <p>I'm an incoming Fullstack SWE @ Workiva and honors student studying CS & Applied Math @ ISU.</p>
 
-<p>I'm also a CS Peer Mentor, Multicultural Student Affairs Peer Educator, First-Year Honors Leader, and President of CSE, the biggest CS club @ ISU!</p>
+<p>I'm also work two part-time jobs (Multicultural Student Affairs Peer Educator & FHP Honors Undergraduate Assistant), and am President of CSE, the biggest CS club @ ISU!</p>
 
 <p>I've worked as a SWE Research assistant @ ISU, SWE Fellow @ Headstarter.</p>
 
