@@ -5,7 +5,7 @@
 
 <p>I've worked as a SWE Research assistant @ ISU, SWE Fellow @ Headstarter.</p>
 
-<p>I'm currently working on ASAP; an all-in-one schedule management platform, designed to eliminate time spent on scheduling, and maximize productivity.</p>
+<p>I'm currently working on ASAP; an all-in-one schedule management platform designed to eliminate time spent on scheduling and maximize productivity.</p>
 
 <p>Beyond CS, also an eccentric DCI (marching band 🎺) enjoyer, weightlifter 🏋️, and rock climber 🧗!</p>
 
