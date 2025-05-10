@@ -12,4 +12,4 @@
 
 ![gopher dancing](./dancing-gopher.gif)
 
-_[gif credit](https://github.com/bashbunni/bashbunni/tree/main)_
+_[copied this cyute gif from here](https://github.com/bashbunni/bashbunni/tree/main)_
