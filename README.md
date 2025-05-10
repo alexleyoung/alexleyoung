@@ -1,5 +1,5 @@
 <h1>WHATS UP IM ALEX</h1>
-<p>I'm an incoming Fullstack SWE @ Workiva and honors student studying CS & Applied Math @ ISU.</p>
+<p>im an incoming swe intern @ Workiva and second-year studying CS & Applied Math @ ISU.</p>
 
 <p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (GO CAROLINA CROWN)</p>
 
