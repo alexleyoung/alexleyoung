@@ -11,3 +11,5 @@
 </p>
 
 ![gopher dancing](./dancing-gopher.gif)
+
+_[gif credit](https://github.com/bashbunni/bashbunni/tree/main)_
