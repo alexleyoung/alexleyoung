@@ -1,9 +1,9 @@
 <h1>WHATS UP IM ALEX</h1>
-<p>im an incoming swe intern @ Workiva and second-year studying CS & Applied Math @ ISU.</p>
+<p>im an incoming swe intern @ Workiva and second-year studying CS & Applied Math @ ISU 🤩</p>
 
-<p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (GO CAROLINA CROWN)</p>
+<p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (GO CAROLINA CROWN 🎺👑)</p>
 
-<p>currently im working on a game/engine with a friend, as well various sidequests like my own nvim plugins, learning new languages (rust, dart, go), and i guess school too.</p>
+<p>currently im working on a game/engine with a friend, as well various sidequests like my own nvim plugins, learning new languages (rust, dart, go), and i guess school too 😹.</p>
 
 <hr/>
 <br>
