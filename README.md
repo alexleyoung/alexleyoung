@@ -1,5 +1,5 @@
 <h1>WHATS UP IM ALEX</h1>
-<p>im a swe intern @ Workiva and rising third-year studying CS & Applied Math @ ISU 🤩</p>
+<p>im a swe intern @ Workiva and rising third-year studying CS & Applied Math @ I(owa)SU 🤩</p>
 
 <p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (GO CAROLINA CROWN 🎺👑)</p>
 
