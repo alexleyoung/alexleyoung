@@ -3,7 +3,7 @@
 
 <p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (GO CAROLINA CROWN 🎺👑)</p>
 
-<p>currently im working on a game/engine with a friend, as well various sidequests like my own nvim plugins, learning new languages (rust, dart, go), linux (arch), and i guess school too 😹.</p>
+<p>currently im working on a game/engine with a friend, as well various sidequests like my own nvim plugins, learning new languages (rust, go), linux (arch), and i guess school too 😹.</p>
 
 <hr/>
 <br>
