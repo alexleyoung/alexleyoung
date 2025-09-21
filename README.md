@@ -15,4 +15,4 @@
   <img src="./dancing-gopher.gif" alt="gopher dancing" style="max-width: 100%; height: auto;">
 </p>
 
-<sub>_copied this cyute gif from [here](https://github.com/bashbunni/bashbunni/tree/main)_</sub>
+<sub>_gif credits [here](https://github.com/bashbunni/bashbunni/tree/main)_</sub>
