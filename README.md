@@ -3,7 +3,7 @@
 
 <p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (carolina crown 🥲👑)</p>
 
-<p>currently im working on a game/engine with a friend, as well various sidequests like doing research with the ISU Data Storage lab, learning (somewhat) new languages (rust, zig), linux (arch), part-time job helping run the First-Year Honors Program @ ISU, serving as president of CSE Club @ ISU, and trying not to tank my gpa 😹.</p>
+<p>currently im working on a game/engine with a friend, as well various sidequests like doing research with the ISU Data Storage lab, trying new languages (rust, zig), linux (arch), part-time job helping run the First-Year Honors Program @ ISU, serving as president of CSE Club @ ISU, and trying not to tank my gpa 😹.</p>
 
 <hr/>
 <br>
