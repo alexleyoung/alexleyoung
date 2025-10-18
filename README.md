@@ -1,7 +1,7 @@
 <h1>WHATS UP. IM ALEX</h1>
 <p>i'm an incoming swe intern @ Capital One, current swe intern @ Workiva, and third-year studying CS & Applied Math @ I(owa)SU 🤩</p>
 
-<p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (GO CAROLINA CROWN 🎺👑)</p>
+<p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (carolina crown is peak 🎺👑)</p>
 
 <p>currently im working on a game/engine with a friend, as well various sidequests like my own nvim plugins, learning new languages (rust, go), linux (arch), part-time job helping run the First-Year Honors Program @ ISU, serving as president of CSE Club @ ISU, and trying not to tank my gpa 😹.</p>
 
