@@ -1,9 +1,7 @@
-<h1>WHATS UP. IM ALEX</h1>
-<p>i'm an incoming swe intern @ Capital One, current swe intern @ Workiva, and third-year studying CS & Applied Math @ I(owa)SU 🤩</p>
+## WHATS UP. IM ALEX
+i'm an incoming swe intern @ Capital One, current swe intern @ Workiva, and third-year studying CS & Applied Math @ I(owa)SU 🤩
 
-<p>i do a lot of random programming and learning and playing a variety of sports that end with -ball. i'm also a Drum Corps International FANATIC (carolina crown 🥲👑)</p>
-
-<p>currently im working on a game/engine with a friend, as well various sidequests like doing research with the ISU Data Storage lab, trying new languages (rust, zig), linux (arch), part-time job helping run the First-Year Honors Program @ ISU, serving as president of CSE Club @ ISU, and trying not to tank my gpa 😹.</p>
+currently i'm reading _[Crafting Interpreters](https://www.craftinginterpreters.com)_ by Robert Nystrom. i'm also chronically messing with my [nvim](https://github.com/alexleyoung/nvim) config 😅
 
 <hr/>
 <br>
