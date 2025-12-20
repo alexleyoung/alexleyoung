@@ -1,7 +1,7 @@
 ## WHATS UP. IM ALEX
 i'm an incoming swe intern @ Capital One, current swe intern @ Workiva, and third-year studying CS & Applied Math @ I(owa)SU 🤩
 
-currently, i'm reading _[Crafting Interpreters](https://www.craftinginterpreters.com)_ by Robert Nystrom. i'm also chronically messing with my [nvim](https://github.com/alexleyoung/nvim) config 😅
+currently, i'm reading _[Crafting Interpreters](https://www.craftinginterpreters.com)_ by Robert Nystrom. i also enjoy occasionally messing with my [nvim](https://github.com/alexleyoung/nvim) config 😅
 
 <hr/>
 <br>
