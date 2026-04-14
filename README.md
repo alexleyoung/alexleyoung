@@ -1,7 +1,7 @@
 ## GREETINGS
 i'm an incoming swe intern @ Capital One, current swe intern @ Workiva, and third-year studying CS & Applied Math @ I(owa)SU 🤩
 
-currently, i'm reading _[Crafting Interpreters](https://www.craftinginterpreters.com)_ by Robert Nystrom. i also enjoy occasionally messing with my [dotfiles](https://github.com/alexleyoung/dotfiles) 😅
+currently, i'm reading _[Crafting Interpreters](https://www.craftinginterpreters.com)_ by Robert Nystrom and _[Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)_ by Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau. i also enjoy occasionally messing with my [dotfiles](https://github.com/alexleyoung/dotfiles) 😅
 
 <hr/>
 <br>
