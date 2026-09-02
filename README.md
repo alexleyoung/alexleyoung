@@ -1,5 +1,5 @@
 ## GREETINGS
-i'm a current swe intern @ Capital One, prev. swe intern @ Workiva, and fourth-year studying CS & Applied Math @ I(owa)SU 🤩
+i'm a current swe intern @ Tesla, prev. swe intern @ Capital One, prev. swe intern @ Workiva, and fourth-year studying CS @ I(owa)SU 🤩
 
 currently, i'm reading _[The Nature of Code](https://natureofcode.com)_ by Daniel Shiffman and _[Structure and Interpretation of Computer 
     Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)_ by Harold Abelson and Gerald Jay Sussman with Julie Sussman. i also enjoy occasionally messing with my [dotfiles](https://github.com/alexleyoung/dotfiles) 😅
